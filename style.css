@@ -68,6 +68,7 @@ body {
   margin: 1rem;
   font-family: inherit;
   font-size: 1.8rem;
+  cursor: pointer;
 }
 
 #restart-btn:hover {
@@ -76,4 +77,9 @@ body {
 
 #restart-btn:active {
   background-color: #222;
+}
+
+#message {
+  font-size: 35px;
+  color: #333;
 }
